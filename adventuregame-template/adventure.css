@@ -1,0 +1,39 @@
+body{
+	background-color: black;
+}
+.game-container1{
+	background-image: url('img/prison 0.jpg');
+	background-repeat: no-repeat;
+	background-size: 800px;
+	width: 800px;
+	height: 800px;
+	margin: auto auto;
+}
+h1{
+	text-align: center;
+	position: relative;
+	top: 30px;
+	left: 0px;
+}
+
+button{
+	font-size: 40px;
+	margin-top: 250px;
+	margin-left: 110px;
+}
+img{
+	display: inline-block;
+	width: 75px;
+	height: 75px;
+	position: relative;
+	top: 440px;
+	left: 100px;
+}
+.discription{
+	width: 800px;
+	text-align: center;
+	font-size: 20px;
+	position: relative;
+	top:40px;
+	left: 0px;
+}	
